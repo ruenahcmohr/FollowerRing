@@ -2,7 +2,7 @@
 IR distance tracking demo gadget. As seen on the internet.
 
 
-!(p1270999.jpg)
+![boo](p1270999.jpg)
 
 This is a 1D version, I had intended to make a 2d version, but I have
 another idea.
@@ -25,7 +25,7 @@ The IR parts are normal IR LEDs and IR phototransistors. I discovered
 Ask questions, I built it, I dont know what details I might have 
  missed for you to give it a try!
  
-(https://www.youtube.com/watch?v=vxrbg0bgX90)
+[motion](https://www.youtube.com/watch?v=vxrbg0bgX90)
 
 
   Rue
