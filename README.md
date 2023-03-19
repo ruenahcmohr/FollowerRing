@@ -25,6 +25,11 @@ The IR parts are normal IR LEDs and IR phototransistors. I discovered
 Ask questions, I built it, I dont know what details I might have 
  missed for you to give it a try!
  
- src="https://www.youtube.com/embed/vxrbg0bgX90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <iframe width="560" height="315"
+src="https://www.youtube.com/embed/vxrbg0bgX90" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
   Rue
