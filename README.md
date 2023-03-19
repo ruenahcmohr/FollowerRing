@@ -2,7 +2,7 @@
 IR distance tracking demo gadget. As seen on the internet.
 
 
-![alt text](p1270999.jpg)
+!(p1270999.jpg)
 
 This is a 1D version, I had intended to make a 2d version, but I have
 another idea.
@@ -25,11 +25,7 @@ The IR parts are normal IR LEDs and IR phototransistors. I discovered
 Ask questions, I built it, I dont know what details I might have 
  missed for you to give it a try!
  
+(https://www.youtube.com/watch?v=vxrbg0bgX90)
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/vxrbg0bgX90" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 
   Rue
